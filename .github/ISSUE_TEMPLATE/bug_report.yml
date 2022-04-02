@@ -4,7 +4,7 @@ description: Report an unexpected behavior or failure (AKA a bug)
 body:
   - type: markdown
     attributes:
-      value:
+      value: |
           * Be sure to search open and closed issues for duplicates
 
   - type: textarea
