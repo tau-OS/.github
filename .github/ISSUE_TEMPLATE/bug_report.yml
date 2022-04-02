@@ -1,0 +1,68 @@
+name: Issue Report
+description: Report an unexpected behavior or failure (AKA a bug)
+
+body:
+  - type: markdown
+    attributes:
+      value:
+          * Be sure to search open and closed issues for duplicates
+
+  - type: textarea
+    attributes:
+      label: What Happened?
+      description: A detailed description of unexpected behavior will help us address your issue more quickly. Do your best!
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      description: Explain the exact steps one would take to experience the issue. If applicable, add screenshots or screen recordings.
+      placeholder:
+          1. Went here
+          2. Did this
+          3. Clicked that
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: Explain how what happened is different from what you wanted to happen.
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: OS Version
+      description: The version of tauOS you are using, or other operating system
+      options:
+        - 1.x (Martin Perl)
+        - Forward
+        - Other Linux
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Software Version
+      description: The version of the software you are using
+      options:
+        - Latest release (I have run all updates)
+        - Compiled from git
+        - Older release (I have not run all updates)
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Log Output
+      description:
+          * Fails without warning? Get and share debug logs.
+          * Unexpectedly quits or stops? Get and share crash logs.
+      render: shell
+
+  - type: textarea
+    attributes:
+      label: Hardware Info
+      description: Relevant hardware information such as graphics drivers, unconventional setups, etc.
