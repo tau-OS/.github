@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tau-OS/.github/main/profile/header.png" >
+<img src="https://raw.githubusercontent.com/tau-OS/.github/main/profile/banner.png" >
 
 <h3 align="center">
     Form. Function. Elegance.
