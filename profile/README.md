@@ -8,6 +8,6 @@
     Learn more at <a href="https://tauos.co">tauos.co</a>
 </p>
 
-<small align="center">
+<p align="center">
     A <a href="https://fyralabs.com">Fyra Labs</a> Project
-</small>
+</p>
