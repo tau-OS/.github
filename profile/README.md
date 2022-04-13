@@ -7,3 +7,7 @@
 <p align="center">
     Learn more at <a href="https://tauos.co">tauos.co</a>
 </p>
+
+<small>
+    A <a href="https://fyralabs.com">Fyra Labs</a> Project
+</small>
