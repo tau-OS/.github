@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-    A <a href="https://fyralabs.com">Fyra Labs</a> Project
+    <small>A <a href="https://fyralabs.com">Fyra Labs</a> Project</small>
 </p>
