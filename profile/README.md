@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/tau-OS/.github/main/profile/tau-pride(2).png" >
-
 <h3 align="center">
     Form. Function. Elegance.
 </h3>
