@@ -1,6 +1,6 @@
 # Security Policy
 
-To report or disclose a potential security-related issue in a tauOS project, email the details to security@tauos.co. Please include, as much as possible:
+To report or disclose a potential security-related issue in a tauOS project, email the details to security@fyralabs.com. Please include, as much as possible:
 - Name of the project or repository affected
 - High level summary of the issue and its potential impact
 - Versions affected, if known
