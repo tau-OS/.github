@@ -11,6 +11,7 @@
 
 <p align="center">
     Join our <a href="https://discord.gg/cwNYkaKFH3">Discord!</a>
+</p>
 
 <p align="center">
     <small>A <a href="https://fyralabs.com">Fyra Labs</a> Project</small>
