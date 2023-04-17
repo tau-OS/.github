@@ -37,8 +37,9 @@ body:
       label: OS Version
       description: The version of tauOS you are using, or other operating system
       options:
-        - 1.x (Martin Perl)
-        - Forward
+        - tauOS 1.x (Neko)
+        - Next or Temporary Development Branch
+        - Ultramarine Linux
         - Other Linux
     validations:
       required: true
